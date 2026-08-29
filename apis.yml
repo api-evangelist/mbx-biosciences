@@ -29,6 +29,9 @@ description: 'MBX Biosciences is a clinical-stage biopharmaceutical company deve
   Surfaced as a portfolio company of NEA and added to the API Evangelist network; no public API surface
   was found at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/mbx-biosciences/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Surfaced as a portfolio company of NEA and added to the API Evangelist network; no public API surface was found at this time."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
